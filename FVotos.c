@@ -1,7 +1,6 @@
 /* Um programa para calcular a porcentagem de votos Brancos, Nulos e Validos.
-   By: Filipe Moreno
-   Versão: 1.0 - 24/03/2019
-   www.filipemoreno.com.br
+   By: Filipe Moreno - www.filipemoreno.com.br
+   Versao: 1.0 - 25/03/2019
 */
 
 int main()
